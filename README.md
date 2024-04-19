@@ -1,10 +1,10 @@
 # ClassTrackr 
-# Prerequisites for running application:
+## Prerequisites for running application:
    - Node
    - Android Studio
    - React Native for Android
 
-Installation Process:
+**Installation Process:**
 - **Node.js Installation:**
   - Go to the [Node.js website](https://nodejs.org).
   - Download the appropriate installer for your operating system (Windows, macOS, Linux).
@@ -24,7 +24,7 @@ Installation Process:
   - During installation, ensure to install the Android SDK and other necessary components.
   - Once installed, open Android Studio and set up the Android SDK and AVD as needed for React Native development.
 
-# Environment Set Up:
+## Environment Set Up:
    - **Run project in development:**
      - Clone the repository and run the following commands to run the app in your local setup.
        - **Install dependencies:**
@@ -34,7 +34,7 @@ Installation Process:
        - **To start metro server (if it doesn't start automatically):**
          - `npm start`
 
-# How to compile APK?
+## How to compile APK?
    - **Steps to build debug APK:**
      - Note: Please don't push the files generated while compiling the js assets.
      - **Compile JS assets. (Run this on the root directory)**
